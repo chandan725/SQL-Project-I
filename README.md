@@ -38,4 +38,16 @@ __Each of the following case study questions can be answered using a single SQL 
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
+### Bonus Questions
+1. Recreate the following table output using the available data:
+
+     <img width="338" alt="bonus1" src="https://github.com/chandan725/SQL-Project-I/assets/108787425/46bce35e-b9c5-4c80-890c-e701735236b8">
+
+3. Recreate the following table output using the available data:
+
+    <img width="395" alt="Bonus2" src="https://github.com/chandan725/SQL-Project-I/assets/108787425/8bfe1f13-3368-42af-a419-ac951b0b6b73">
+
+
+
+
 
